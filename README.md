@@ -44,6 +44,5 @@ This project focuses on analyzing the daily COVID-19 vaccination data by country
 ### Note
 GitHub may not fully render Jupyter notebooks. For a complete view of the output, it's recommended to run the notebook locally in Jupyter Notebook or use Google Colab.
 
-## Additional Resources
-- Watch a Loom recording of the project in action: https://www.loom.com/share/8a2c5aab3fa746d5a5978635b35e26d0
+
 
